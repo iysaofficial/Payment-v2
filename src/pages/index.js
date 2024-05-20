@@ -174,15 +174,14 @@ export default function Home() {
           <p>
             2. Setelah memastikan data sudah benar, Anda dapat
             mengklik tombol &quot;Kirim&quot;. Jika kami telah menerima data Anda, akan
-            ada notifikasi berwarna hijau di sebelah tombol "Kirim".{" "}
+            ada notifikasi berwarna hijau di sebelah tombol &quot;Kirim&quot;.
           </p>
-          {/* <img class="con img-fluid" src="./1.PNG" alt="" /> */}
           <p>
             3. Notifikasi: Data telah berhasil terkirim data
             registrasi akan dikirimkan ke alamat email ketua tim, dan berkas
             akan divalidasi oleh tim kami.Mohon bersabar dan tunggu hingga 3
             hari setelah waktu pendaftaran. Surat Penerimaan (LOA) akan kami
-            kirimkan ke alamat email ketua tim.{" "}
+            kirimkan ke alamat email ketua tim.
           </p>
           <br></br>
 
