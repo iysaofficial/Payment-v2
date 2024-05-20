@@ -173,7 +173,7 @@ export default function Home() {
           </p>
           <p>
             2. Setelah memastikan data sudah benar, Anda dapat
-            mengklik tombol "Kirim". Jika kami telah menerima data Anda, akan
+            mengklik tombol &quot;Kirim&quot;. Jika kami telah menerima data Anda, akan
             ada notifikasi berwarna hijau di sebelah tombol "Kirim".{" "}
           </p>
           {/* <img class="con img-fluid" src="./1.PNG" alt="" /> */}
